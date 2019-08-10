@@ -1,0 +1,133 @@
+/*stylesheet*/
+body {
+  margin: 0px;
+}
+
+.pad {
+  padding: 25px;
+}
+
+.header {
+  background-color: rgb(131, 54, 198);
+  color: black;
+  height: 100px;
+  font-size: 36pt;
+  text-align: center;
+}
+
+.welcome {
+  background-color: gray;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  height: 40px;
+  margin: 0px;
+}
+
+.main-text {
+  width: auto;
+  height: auto;
+  float: left;
+  background-color: beige;
+  font-size: 25px;
+}
+
+.divs {
+  margin: 5px;
+  width: auto;
+  height: auto;
+  float: left;
+  border: 4px dashed rgb(131, 54, 198);
+}
+
+.anchor {
+  float: bottom;
+  bottom: 10px;
+  width: 50%;
+  font-size: 16pt;
+  margin: 20px;
+  padding: 20px;
+  text-align: right;
+}
+
+/*.firstdiv {
+background-color: rgb(218, 215, 133);
+padding: 25px; margin: 0px;
+color: black;
+text-align: center;
+font-size: 50px;
+width: 100%;
+height: 50%;
+border: 4px dashed rgb(131, 54, 198);
+}
+
+.seconddiv {
+background-color: rgb(218, 215, 133);
+padding: 25px; margin: 50px;
+text-align: center;
+font-size: 50px;
+width: 100%;
+height: 50%;
+border: 4px dashed rgb(131, 54, 198);
+}
+
+.thirddiv {
+background-color: rgb(131, 54, 198);
+padding: 25px; margin: 50px;
+text-align: center;
+font-size: 50px;
+width: 100%;
+height: 50%;
+border: 4px dashed rgb(218, 215, 133);
+}
+
+p {
+font-size: 35px;
+
+}
+
+/*
+body {
+margin: 0px;
+
+}
+
+.pad {
+padding: 25px;
+
+}
+
+.header {
+background-color: lightblue;
+color: black;
+height: 100px;
+font-size: 36pt;
+text-align: center;
+
+}
+
+.welcome {
+background-color: gray;
+color: white;
+font-size: 16pt;
+text-align: center;
+height: 40px;
+margin: 0px;
+
+}
+
+.main-text {
+width: 60%;
+float: left;
+background-color: beige;
+
+}
+
+.divs {
+margin: 5px;
+width: 25%;
+float: left;
+border: 4px solid lightblue;
+
+}
+*/
